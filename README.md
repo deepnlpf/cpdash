@@ -1,2 +1,3 @@
-# pydash_cprofile
+# CPDash
 Just a DashBoard for CProfile Python
+
